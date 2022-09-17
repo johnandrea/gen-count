@@ -1,5 +1,5 @@
 # gen-count
-Given a GEDCOM fie, report the families with the max number of children, grandchildren, g-grandchildren, ... 
+Given a GEDCOM file, report the families with the max number of children, grandchildren, g-grandchildren, ... 
 
 ## Limitations
 
