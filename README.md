@@ -26,7 +26,7 @@ children
 number-of-children  name-of-parents
 
 grandchildren
-number-of-children name-of-parents
+number-of-grandchildren name-of-parents
 
 ...
 ```
