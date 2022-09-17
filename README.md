@@ -21,7 +21,7 @@ or similarily if using the .EXE
 gen-count family.ged >max-desc.txt
 
 ## Output
-
+```
 children
 number-of-children  name-of-parents
 
@@ -29,9 +29,10 @@ grandchildren
 number-of-children name-of-parents
 
 ...
+```
 
 ## Example Output
-
+```
 children
 4 Elizabeth_II Alexandra Mary Windsor + Philip Mountbatten
 
@@ -45,6 +46,7 @@ g-grandchildren
 
 gg-grandchildren
 1 Elizabeth Angela Marguerite Bowes-Lyon + George_VI Windsor
+```
 
 ## Bug reports
 
