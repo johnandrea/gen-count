@@ -5,8 +5,8 @@ import readgedcom
 # Display the family/families with the most children, grandchildren, ...
 # Given a GED file as the input paeameter. '''
 #
+# This code is released under the MIT License: https://opensource.org/licenses/MIT
 # Copyright (c) 2022 John A. Andrea
-# MIT License
 #
 # v1.0
 
